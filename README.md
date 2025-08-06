@@ -1,21 +1,9 @@
-👋 **Giới thiệu bản thân**  
-Tôi là một **developer** với nhiều năm kinh nghiệm trong lĩnh vực lập trình và phát triển phần mềm.  
+<h1 align="center">Hi 👋, I'm Quoc Dung</h1>
+<h3 align="center">A passionate frontend developer from Vietname</h3>
 
-💻 **Kinh nghiệm chuyên môn**  
-- Thành thạo nhiều ngôn ngữ lập trình như **Python**, **JavaScript**, **Java**, và **C++**.  
-- Có kinh nghiệm phát triển các dự án từ **web development**, **mobile app**, đến **hệ thống backend** quy mô lớn.  
-- Chuyên sâu về thiết kế và tối ưu hóa **cơ sở dữ liệu** (SQL, NoSQL).  
-- Kinh nghiệm làm việc với các công nghệ hiện đại như **Docker**, **Kubernetes**, và **Cloud platforms** (AWS, Azure).  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-🚀 **Thành tựu nổi bật**  
-- Dẫn dắt đội nhóm phát triển thành công nhiều dự án **thương mại điện tử** và **ứng dụng doanh nghiệp**.  
-- Tối ưu hóa hiệu suất hệ thống, giảm **thời gian tải** và tăng **khả năng mở rộng** cho các ứng dụng.  
-- Đóng góp mã nguồn mở (open-source) và hỗ trợ cộng đồng lập trình viên.  
-
-🌟 **Phong cách làm việc**  
-- Đam mê học hỏi, luôn cập nhật các công nghệ và xu hướng mới nhất.  
-- Kỹ năng **giải quyết vấn đề** và tư duy logic sắc bén.  
-- Làm việc nhóm hiệu quả, giao tiếp rõ ràng và luôn hướng đến mục tiêu chung.  
-
-📫 **Liên hệ**  
-Hãy kết nối với tôi để cùng xây dựng những sản phẩm công nghệ đột phá!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
