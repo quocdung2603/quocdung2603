@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Dby263sG72EAAAAj/chicken-bro-magic.gif" />
+<img align="right" height="100" src="https://media.tenor.com/Dby263sG72EAAAAj/chicken-bro-magic.gif" />
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/FTJ-5_TLOfMAAAAi/chicken-chicken-bro.gif" />
+<img align="left" height="100" src="https://media.tenor.com/FTJ-5_TLOfMAAAAi/chicken-chicken-bro.gif" />
 
 ###
 
